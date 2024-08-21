@@ -22,6 +22,10 @@ Others
 - The Emotion Probe: On the Universality of Cross-Linguistic and Cross-Gender Speech Emotion Recognition via Machine Learning (2022) (https://doi.org/10.3390/s22072461)
 - A review of depression and suicide risk assessment using speech analysis (2015) (https://doi.org/10.1016/j.specom.2015.03.004)
 
+- Acoustical properties of speech as indicators of depression and suicidal risk (2000) (https://doi.org/10.1109/10.846676)
+
+- Acoustic differences between healthy and depressed people: a cross-situation study (2019) (https://doi.org/10.1186/s12888-019-2300-7)
+
 - A Cooperative Voice Analysis Repository for Speech Technologies
   - https://github.com/covarep/covarep
   - http://covarep.github.io/covarep/pdfs/KaneJ2013covarep_sigmedia.pdf
@@ -80,6 +84,9 @@ Others
 - https://scholar.google.com.hk/citations?user=e77l_EUAAAAJ&hl=zh-TW&oi=sra
 - https://gacbe.ac.in/pdf/ematerial/18BPS6EL-U3.pdf
 - https://pubmed.ncbi.nlm.nih.gov/11392865/
+
+- Seligman, M. E. P., Steen, T. A., Park, N., & Peterson, C. (2005). Steen Happiness Index (AHI, SHI) [Database record]. APA PsycTests.
+(https://doi.org/10.1037/t03521-000)
 
 - PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals (https://arxiv.org/abs/2405.19660)
 - SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors (https://arxiv.org/abs/2406.14598)
