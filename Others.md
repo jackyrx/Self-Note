@@ -101,6 +101,11 @@ Others
 
 - https://sciwork.dev/project
 
+MDX
+  - https://mdxjs.com
+  - https://github.com/mdx-js/mdx/
+  - https://github.com/pngwn/MDsveX?tab=readme-ov-file
+
 Terms/ etc.
 - Music emotion recognition (MER)
 - Acoustic Modeling
