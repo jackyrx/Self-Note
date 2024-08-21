@@ -97,6 +97,8 @@ Others
 - Bio-acoustic features of depression: A review (2023) (https://doi.org/10.1016/j.bspc.2023.105020)
 - Detection of Minor and Major Depression through Voice as a Biomarker Using Machine Learning (2021) (https://doi.org/10.3390/jcm10143046)
 
+- https://github.com/yuaanlin/coscup-go-gemini-line-bot
+
 Terms/ etc.
 - Music emotion recognition (MER)
 - Acoustic Modeling
