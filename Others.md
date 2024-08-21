@@ -91,6 +91,9 @@ Others
 - PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals (https://arxiv.org/abs/2405.19660)
 - SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors (https://arxiv.org/abs/2406.14598)
 
+- Bio-acoustic features of depression: A review (2023) (https://doi.org/10.1016/j.bspc.2023.105020)
+- Detection of Minor and Major Depression through Voice as a Biomarker Using Machine Learning (2021) (https://doi.org/10.3390/jcm10143046)
+
 Terms/ etc.
 - Music emotion recognition (MER)
 - Acoustic Modeling
