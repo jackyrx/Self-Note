@@ -68,7 +68,9 @@ xGen-MM
 Fish-Speech
   - https://github.com/fishaudio/fish-speech
   - https://speech.fish.audio
-
+    
+- https://huggingface.co/hon9kon9ize/CantoneseLLMChat-v0.5
+- https://github.com/hon9kon9ize/Bert-VITS2-Cantonese
 - https://github.com/innnky/ar-vits
 - https://github.com/neonbjb/tortoise-tts
 - https://github.com/RVC-Boss/GPT-SoVITS
@@ -82,7 +84,10 @@ Fish-Speech
 
 CosyVoice
   - https://github.com/FunAudioLLM/CosyVoice
-  - 
+
+ - https://llm-merging.github.io
+ - https://llm-merging.github.io/starter_kit
+ - https://github.com/llm-merging/LLM-Merging
 
 
 
