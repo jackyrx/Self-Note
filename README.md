@@ -48,3 +48,6 @@
 
 - Accelerated PyTorch training on Mac (https://developer.apple.com/metal/pytorch/)
   - ```pip3 install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu```
+
+- 在 HackMD 列印／另存 PDF 時換頁 (https://hackmd.io/@WhitePen/HJ-mast7K)
+  - ```<div style="page-break-after:always"></div>``` 
