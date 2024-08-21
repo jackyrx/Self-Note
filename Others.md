@@ -105,6 +105,14 @@ Others
 - http://natpoor.blogspot.com/2016/07/making-spectrumgradient-color-palette.html
 - https://ggraph.data-imaginist.com/reference/geom_node_point.html
 
+
+- Python 官方文件臺灣繁中翻譯計畫 (https://gamma.app/docs/PyDoc-zhtw-COSCUP2024-0fsdpfgx5iugcdy?mode=doc)
+- https://github.com/python/python-docs-zh-tw?tab=readme-ov-file#id4
+- https://github.com/python/python-docs-zh-tw?tab=readme-ov-file#fuzzy-entries
+
+
+- https://huggingface.co/cognitivecomputations/dolphin-2.9.3-mistral-nemo-12b
+
 MDX
   - https://mdxjs.com
   - https://github.com/mdx-js/mdx/
