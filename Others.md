@@ -98,6 +98,8 @@ Others
 - Detection of Minor and Major Depression through Voice as a Biomarker Using Machine Learning (2021) (https://doi.org/10.3390/jcm10143046)
 
 - https://github.com/yuaanlin/coscup-go-gemini-line-bot
+- 
+- https://developers.googleblog.com/en/smaller-safer-more-transparent-advancing-responsible-ai-with-gemma/
 
 - https://sciwork.dev/project
 
@@ -126,4 +128,5 @@ Terms/ etc.
 - Lyrics-to-Audio Alignment
 - Vocalizations
 - Self-similarity matrix (SSM)
-- 
+- ELi5 - explainlikeimfive
+
