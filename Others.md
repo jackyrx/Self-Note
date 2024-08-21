@@ -99,6 +99,8 @@ Others
 
 - https://github.com/yuaanlin/coscup-go-gemini-line-bot
 
+- https://sciwork.dev/project
+
 Terms/ etc.
 - Music emotion recognition (MER)
 - Acoustic Modeling
