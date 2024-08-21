@@ -85,6 +85,9 @@ Others
 - https://gacbe.ac.in/pdf/ematerial/18BPS6EL-U3.pdf
 - https://pubmed.ncbi.nlm.nih.gov/11392865/
 
+- apply pyannote.audio pipelines on an audio file (https://github.com/pyannote/pyannote-audio/blob/develop/tutorials/applying_a_pipeline.ipynb)
+- https://librosa.org/doc/main/generated/librosa.feature.melspectrogram.html
+
 - Seligman, M. E. P., Steen, T. A., Park, N., & Peterson, C. (2005). Steen Happiness Index (AHI, SHI) [Database record]. APA PsycTests.
 (https://doi.org/10.1037/t03521-000)
 
