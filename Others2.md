@@ -58,6 +58,13 @@ xGen-MM
 
 - https://github.com/hiyouga/LLaMA-Factory/tree/main
 
+- https://ollama.com/library/glm4:9b
+- https://github.com/THUDM/GLM
+
+- https://github.com/christian-byrne/audio-separation-nodes-comfyui
+
+- SeekAll：一鍵搜尋多站結果的高效工具 (https://tools.wingzero.tw/article/sn/2799)
+
 Fish-Speech
   - https://github.com/fishaudio/fish-speech
   - https://speech.fish.audio
@@ -73,7 +80,9 @@ Fish-Speech
 - https://github.com/MoonInTheRiver/DiffSinger
 - https://huggingface.co/2Noise/ChatTTS
 
-
+CosyVoice
+  - https://github.com/FunAudioLLM/CosyVoice
+  - 
 
 
 
