@@ -113,6 +113,8 @@ Others
 
 - https://huggingface.co/cognitivecomputations/dolphin-2.9.3-mistral-nemo-12b
 
+- https://www.mediawiki.org/wiki/ORES
+
 MDX
   - https://mdxjs.com
   - https://github.com/mdx-js/mdx/
