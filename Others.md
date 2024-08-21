@@ -9,3 +9,34 @@ Others
 
 - Li, J., Hasegawa-Johnson, M., & McElwain, N. L. (2021). Analysis of acoustic and voice quality features for the classification of infant and mother vocalizations. Speech communication, 133, 41-61.
   - https://doi.org/10.1016/j.specom.2021.07.010
+
+- Acoustic Modeling for Automatic Lyrics-to-Audio Alignment (2019) (https://arxiv.org/abs/1906.10369)
+- Developing a benchmark for emotional analysis of music (2017) (https://doi.org/10.1371/journal.pone.0173392)
+
+- Enhanced Video Analytics for Sentiment Analysis Based on Fusing Textual (2020) (https://doi.org/10.1109/ACCESS.2020.3011977)
+- Survey on bimodal speech emotion recognition from acoustic and linguistic information fusion (2022) (https://doi.org/10.1016/j.specom.2022.03.002)
+
+- A systematic review on automated clinical depression diagnosis (2023) (https://doi.org/10.1038/s44184-023-00040-z)
+
+- Deep Learning based Emotion Recognition System Using Speech Features and Transcriptions (2019) (https://arxiv.org/abs/1906.05681)
+- The Emotion Probe: On the Universality of Cross-Linguistic and Cross-Gender Speech Emotion Recognition via Machine Learning (2022) (https://doi.org/10.3390/s22072461)
+- A review of depression and suicide risk assessment using speech analysis (2015) (https://doi.org/10.1016/j.specom.2015.03.004)
+
+- A Cooperative Voice Analysis Repository for Speech Technologies
+  - https://github.com/covarep/covarep
+  - http://covarep.github.io/covarep/pdfs/KaneJ2013covarep_sigmedia.pdf
+ 
+- https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/deliver/index/docId/76930/file/76930.pdf
+
+- Other lit. review (Literature review (Semantic)) https://docs.google.com/spreadsheets/d/14zqteepCAz89BSsXzC8tMj9QEzqeVVQY4RMhGAsoaFM/edit?pli=1&gid=663387597#gid=663387597
+- https://github.com/uofabinarylab/ADDReview/blob/main/Feature%20Synthesis.ipynb
+
+- Schuller, B. (2011). Voice and Speech Analysis in Search of States and Traits. In: Salah, A., Gevers, T. (eds) Computer Analysis of Human Behavior. Springer, London. 
+  - https://doi.org/10.1007/978-0-85729-994-9_9
+  - 
+
+Terms/ etc.
+- Music emotion recognition (MER)
+- Acoustic Modeling
+- Lyrics-to-Audio Alignment
+- Vocalizations
