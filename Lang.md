@@ -16,4 +16,4 @@ Multilingual / Cantonese / Chinese / Japanese Studies or Tools
 - https://huggingface.co/datasets/alvanlii/cantonese-youtube-transcription/viewer/default/train?p=1
 - https://huggingface.co/datasets/R5dwMg/foodiereview_yue
 - https://huggingface.co/alvanlii/whisper-small-cantonese
-- 
+- https://huggingface.co/poppysmickarlili/whisper-small-cantonese
