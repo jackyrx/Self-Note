@@ -17,3 +17,10 @@ Multilingual / Cantonese / Chinese / Japanese Studies or Tools
 - https://huggingface.co/datasets/R5dwMg/foodiereview_yue
 - https://huggingface.co/alvanlii/whisper-small-cantonese
 - https://huggingface.co/poppysmickarlili/whisper-small-cantonese
+
+- https://github.com/AlienKevin/cantonese_asr_eval
+- https://huggingface.co/alvanlii/whisper-small-cantonese
+- https://huggingface.co/hon9kon9ize/CantoneseLLMChat-nemo
+
+- https://hon9kon9ize.com/posts/2024-04-28-cantonesellm_tech_report
+- 
