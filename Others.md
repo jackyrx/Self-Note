@@ -101,6 +101,10 @@ Others
 
 - https://sciwork.dev/project
 
+- Network visualization with R (https://kateto.net/wp-content/uploads/2016/06/Polnet%202016%20R%20Network%20Visualization%20Workshop.pdf)
+- http://natpoor.blogspot.com/2016/07/making-spectrumgradient-color-palette.html
+- https://ggraph.data-imaginist.com/reference/geom_node_point.html
+
 MDX
   - https://mdxjs.com
   - https://github.com/mdx-js/mdx/
