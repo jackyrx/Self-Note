@@ -71,6 +71,9 @@ Fish-Speech
     
 - https://huggingface.co/hon9kon9ize/CantoneseLLMChat-v0.5
 - https://github.com/hon9kon9ize/Bert-VITS2-Cantonese
+- https://github.com/hon9kon9ize/Bert-VITS2-Cantonese/tree/Style-Bert-VITS2?tab=readme-ov-file
+- https://github.com/fishaudio/Bert-VITS2
+- https://github.com/hon9kon9ize/Bert-VITS2-Cantonese/blob/Style-Bert-VITS2/docs/TERMS_OF_USE.md
 - https://github.com/innnky/ar-vits
 - https://github.com/neonbjb/tortoise-tts
 - https://github.com/RVC-Boss/GPT-SoVITS
@@ -81,6 +84,12 @@ Fish-Speech
 - https://github.com/jik876/hifi-gan
 - https://github.com/MoonInTheRiver/DiffSinger
 - https://huggingface.co/2Noise/ChatTTS
+- https://github.com/YoMio-Tech-Inc/GPT-SoVITS2
+- https://jasonppy.github.io/VoiceCraft_web/
+- https://github.com/hon9kon9ize/Bert-VITS2-Cantonese/blob/main/text/jyutping.csv
+- https://jeremychee4.github.io/pavits4EVC/
+- https://www.youtube.com/watch?v=aTUSzgDl1iY&themeRefresh=1
+- https://github.com/mtkresearch/generative-fusion-decoding
 
 CosyVoice
   - https://github.com/FunAudioLLM/CosyVoice
