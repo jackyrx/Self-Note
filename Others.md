@@ -55,8 +55,36 @@ Others
 
 - From Data to Melody: Data Sonification and Its Role in Open Science (https://www.earthdata.nasa.gov/learn/blog/data-sonification-open-science )
 
+- https://en.wikipedia.org/wiki/Self-similarity_matrix
+- https://www.audiolabs-erlangen.de/resources/MIR/FMP/C4/C4S2_SSM.html
+- MusicPlot: Interactive Self-Similarity Matrix for Music Structure Visualization (https://wlouie1.github.io/MusicPlot/musicplot_paper.pdf)
+- https://github.com/carlosholivan/SelfSimilarityMatrices
+- https://www.ofai.at/~jan.schlueter/pubs/2015_eusipco.pdf
+
+- Music boundary detection using neural networks on spectrograms and self-similarity lag matrices (https://doi.org/10.1109/EUSIPCO.2015.7362593)
+
+- Self-Supervised Learning For Graphs (https://medium.com/stanford-cs224w/self-supervised-learning-for-graphs-963e03b9f809)
+- http://www.cse.cuhk.edu.hk/~cslui/CMSC5734/VertexSimilarity_Newman.pdf
+
+- Fundamentals of music processing chapter 4 발표자료 (https://www.slideshare.net/slideshow/fundamentals-of-music-processing-chapter-4/74250651#5)
+
+- Similarity network fusion of features for clean self-similarity matrices in audio, as well as Javascript tools to play SSMs and spring graphs synchronized to audio (https://github.com/ctralie/GraphDitty)
+
+- The Relationship between Happiness and Mental Health among Saudi Women (https://doi.org/10.3390/brainsci13040526)
+- https://www.authentichappiness.sas.upenn.edu/newsletters/authentichappiness/happiness
+- https://www.collegesidekick.com/study-guides/frederick-humangrowthdevelp/the-pursuit-of-happiness
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3122271/pdf/nihms-305177.pdf
+
+- Positive psychology: An introduction (MEP Seligman)
+- https://psycnet.apa.org/buy/2000-13324-001
+- https://scholar.google.com.hk/citations?user=e77l_EUAAAAJ&hl=zh-TW&oi=sra
+- https://gacbe.ac.in/pdf/ematerial/18BPS6EL-U3.pdf
+- https://pubmed.ncbi.nlm.nih.gov/11392865/
+
 Terms/ etc.
 - Music emotion recognition (MER)
 - Acoustic Modeling
 - Lyrics-to-Audio Alignment
 - Vocalizations
+- Self-similarity matrix (SSM)
+- 
