@@ -39,6 +39,9 @@
 
 - https://github.com/fal-ai/fal
 
+
+- [簡單用 Chrome Extension 接 Gemini API (下 Prompt) 就能實作文章摘要](https://wolkesau.medium.com/簡單用-chrome-extension-接-gemini-api-下-prompt-就能實作文章摘要工具參加-google-百萬美金挑戰賽-ac2adda60c6f)
+
 # Useful commands
 - ```zip -er desiredfilename.zip``` (https://proton.me/blog/encrypt-zip-file#mac-terminal)
 - ```for d in */; do zip -r "${d%/}.zip" "$d"; done```
