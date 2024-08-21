@@ -29,4 +29,19 @@ xGen-MM
 - https://ollama.com/library/moondream
 - https://github.com/vikhyat/moondream
 
-- 
+- 基于Ollama定制自己的大语言模型(https://www.53ai.com/news/qianyanjishu/772.html)
+
+- 大模型文本生成——解码策略（Top-k & Top-p & Temperature） (https://www.zhihu.com/tardis/bd/art/647813179?source_id=1001)
+
+- https://github.com/sugarforever/chat-ollama
+- https://github.com/ultrasev/stream-whisper
+- https://huggingface.co/Systran/faster-whisper-large-v3
+- https://github.com/SYSTRAN/faster-whisper
+- https://github.com/SYSTRAN/faster-whisper/tree/fbcf58bf984a309edab9d21e23bca872e1d5fe61/faster_whisper
+
+- https://github.com/ollama/ollama
+- https://github.com/open-webui/open-webui
+
+- Nucleus Sampling (https://nn.labml.ai/sampling/nucleus.html)
+
+- https://github.com/gapry/arabica
