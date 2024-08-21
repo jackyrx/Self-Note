@@ -99,7 +99,12 @@ CosyVoice
  - https://github.com/llm-merging/LLM-Merging
 
 - Efficient and Effective Vocabulary Expansion Towards Multilingual Large Language Models (https://arxiv.org/pdf/2402.14714)
-- 
+
+- https://github.com/deepseek-ai/DeepSeek-V2
+- https://ollama.com/search?q=deepseek&p=1
+- https://ollama.com/library/deepseek-llm
+
+- https://ai.meta.com/blog/meta-llama-3-1-ai-responsibility/
 
 
 
