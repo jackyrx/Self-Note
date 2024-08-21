@@ -117,6 +117,19 @@ Others
 
 - https://www.mediawiki.org/wiki/ORES
 
+- https://github.com/PichuChen/hatsuaki
+- https://pichuchen.tw
+- https://github.com/PichuChen
+
+- https://fediverse.observer/list
+- https://github.com/mastodon/mastodon/issues/10520
+- https://webfinger.net
+
+- https://c3js.org
+- https://www.chartjs.org
+
+- [SVG 完整教學 31 天](https://www.oxxostudio.tw/articles/201410/svg-tutorial.html#google_vignette)
+
 MDX
   - https://mdxjs.com
   - https://github.com/mdx-js/mdx/
