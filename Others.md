@@ -33,7 +33,27 @@ Others
 
 - Schuller, B. (2011). Voice and Speech Analysis in Search of States and Traits. In: Salah, A., Gevers, T. (eds) Computer Analysis of Human Behavior. Springer, London. 
   - https://doi.org/10.1007/978-0-85729-994-9_9
-  - 
+
+- Intuitive visualizations of pitch and loudness in speech (https://doi.org/10.3758%2Fs13423-015-0934-0)
+
+- MATH BEHIND THE COLOR WHEEL : COLOR SPACE (https://cklixx.people.wm.edu/teaching/math400/ColorSpace.pdf)
+
+- DeThorne, L., Aparicio Betancourt, M., Karahalios, K. et al. Visualizing Syllables: Real-Time Computerized Feedback Within a Speech–Language Intervention. J Autism Dev Disord 45, 3756–3763 (2015). https://doi.org/10.1007/s10803-014-2274-8
+
+
+- TextTimeline: 文字表示を保持した発話テキストの音響特徴可視化 (http://id.nii.ac.jp/1001/00182966/)
+
+- Visualizing Syllables: Real-Time Computerized Feedback Within a Speech–Language Intervention (http://doi.org/10.1007/s10803-014-2274-8)
+
+- Xu, XL., Xiao, YY., Yang, XH. et al. Attributed network community detection based on network embedding and parameter-free clustering. Appl Intell 52, 8073–8086 (2022). https://doi.org/10.1007/s10489-021-02779-4
+
+- Siu, A., SH Kim, G., O'Modhrain, S., & Follmer, S. (2022, April). Supporting accessible data visualization through audio data narratives. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (pp. 1-19). (https://doi.org/10.1145/3491102.3517678)
+
+- Music, Computing, and Health: A Roadmap for the Current and Future Roles of Music Technology for Health Care and Well-Being (https://doi.org/10.1177/205920432199770)
+
+- Multilevel rhythms in multimodal communication (https://doi.org/10.1098/rstb.2020.0334)
+
+- From Data to Melody: Data Sonification and Its Role in Open Science (https://www.earthdata.nasa.gov/learn/blog/data-sonification-open-science )
 
 Terms/ etc.
 - Music emotion recognition (MER)
