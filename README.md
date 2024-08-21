@@ -31,6 +31,13 @@
 # Others
 - Hacker News Daily (https://github.com/meixger/hackernews-daily)
 - [Colab GPUs Features & Pricing](http://mccormickml.com/2024/04/23/colab-gpus-features-and-pricing/#s3-cost-per-gpu)
+- unDraw (https://undraw.co/illustrations)
+
+- https://github.com/replicate/cog-flux-schnell
+- https://huggingface.co/black-forest-labs/FLUX.1-schnell
+- https://replicate.com/black-forest-labs/flux-schnell
+
+- https://github.com/fal-ai/fal
 
 # Useful commands
 - ```zip -er desiredfilename.zip``` (https://proton.me/blog/encrypt-zip-file#mac-terminal)
