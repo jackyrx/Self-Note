@@ -45,3 +45,6 @@
 # Useful commands
 - ```zip -er desiredfilename.zip``` (https://proton.me/blog/encrypt-zip-file#mac-terminal)
 - ```for d in */; do zip -r "${d%/}.zip" "$d"; done```
+
+- Accelerated PyTorch training on Mac (https://developer.apple.com/metal/pytorch/)
+  - ```pip3 install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu```
