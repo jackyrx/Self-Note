@@ -57,3 +57,26 @@ xGen-MM
 - https://github.com/NVIDIA/NeMo-Guardrails
 
 - https://github.com/hiyouga/LLaMA-Factory/tree/main
+
+Fish-Speech
+  - https://github.com/fishaudio/fish-speech
+  - https://speech.fish.audio
+
+- https://github.com/innnky/ar-vits
+- https://github.com/neonbjb/tortoise-tts
+- https://github.com/RVC-Boss/GPT-SoVITS
+- https://github.com/6drf21e/ChatTTS_colab
+- https://huggingface.co/spaces/taa/ChatTTS_Speaker
+- https://github.com/2noise/ChatTTS
+- https://chattts.com/zh
+- https://github.com/jik876/hifi-gan
+- https://github.com/MoonInTheRiver/DiffSinger
+- https://huggingface.co/2Noise/ChatTTS
+
+
+
+
+
+
+
+
