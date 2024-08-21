@@ -45,3 +45,5 @@ xGen-MM
 - Nucleus Sampling (https://nn.labml.ai/sampling/nucleus.html)
 
 - https://github.com/gapry/arabica
+
+- https://github.com/NVIDIA/NeMo-Guardrails
