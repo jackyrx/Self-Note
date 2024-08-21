@@ -98,7 +98,8 @@ CosyVoice
  - https://llm-merging.github.io/starter_kit
  - https://github.com/llm-merging/LLM-Merging
 
-
+- Efficient and Effective Vocabulary Expansion Towards Multilingual Large Language Models (https://arxiv.org/pdf/2402.14714)
+- 
 
 
 
