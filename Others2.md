@@ -47,3 +47,5 @@ xGen-MM
 - https://github.com/gapry/arabica
 
 - https://github.com/NVIDIA/NeMo-Guardrails
+
+- https://github.com/hiyouga/LLaMA-Factory/tree/main
