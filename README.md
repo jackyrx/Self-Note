@@ -13,3 +13,6 @@
 # Interesting videos/ links
 - Stand-up Maths | Bayesian Statistics with Hannah Fry (https://www.youtube.com/watch?v=7GgLSnQ48os)
 - Tibees | A simple paper worth a trillion dollars (https://www.youtube.com/watch?v=xxIZ28TQlTg)
+
+# Others
+- Hacker News Daily (https://github.com/meixger/hackernews-daily)
