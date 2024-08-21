@@ -23,4 +23,8 @@ Multilingual / Cantonese / Chinese / Japanese Studies or Tools
 - https://huggingface.co/hon9kon9ize/CantoneseLLMChat-nemo
 
 - https://hon9kon9ize.com/posts/2024-04-28-cantonesellm_tech_report
-- 
+
+- https://www.cantonese.tools/about.html
+- https://cantonese.ca
+
+- [Google 翻譯粵語問題收集](https://docs.google.com/spreadsheets/d/17V-dbrJaEe9ZlY4pX0gnIUG6aS6zaTBEn7t8Ix64KQg/htmlview#)
