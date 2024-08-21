@@ -81,6 +81,9 @@ Others
 - https://gacbe.ac.in/pdf/ematerial/18BPS6EL-U3.pdf
 - https://pubmed.ncbi.nlm.nih.gov/11392865/
 
+- PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals (https://arxiv.org/abs/2405.19660)
+- SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors (https://arxiv.org/abs/2406.14598)
+
 Terms/ etc.
 - Music emotion recognition (MER)
 - Acoustic Modeling
