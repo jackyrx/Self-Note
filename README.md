@@ -22,3 +22,4 @@
 
 # Others
 - Hacker News Daily (https://github.com/meixger/hackernews-daily)
+- [Colab GPUs Features & Pricing](http://mccormickml.com/2024/04/23/colab-gpus-features-and-pricing/#s3-cost-per-gpu)
