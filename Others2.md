@@ -108,7 +108,11 @@ CosyVoice
 - https://github.com/comfyanonymous/ComfyUI
 
 - https://ai.meta.com/blog/meta-llama-3-1-ai-responsibility/
+- https://developers.googleblog.com/en/smaller-safer-more-transparent-advancing-responsible-ai-with-gemma/
 
+- https://ai.google.dev/gemma/docs/lora_tuning
 
-
+- https://www.mediatek.com/blog/mediatek-research-breeze-7b
+- https://blog.infuseai.io/quick-demo-3-breeze-7b-mediatek-intro-3e2f8e2f6da9
+- https://huggingface.co/MediaTek-Research?search_models=Breeze-7B
 
