@@ -104,6 +104,9 @@ CosyVoice
 - https://ollama.com/search?q=deepseek&p=1
 - https://ollama.com/library/deepseek-llm
 
+
+- https://github.com/comfyanonymous/ComfyUI
+
 - https://ai.meta.com/blog/meta-llama-3-1-ai-responsibility/
 
 
