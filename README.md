@@ -41,3 +41,4 @@
 
 # Useful commands
 - ```zip -er desiredfilename.zip``` (https://proton.me/blog/encrypt-zip-file#mac-terminal)
+- ```for d in */; do zip -r "${d%/}.zip" "$d"; done```
